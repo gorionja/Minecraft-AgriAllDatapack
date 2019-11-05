@@ -1,0 +1,1 @@
+execute unless entity @e[type=minecraft:area_effect_cloud,distance=..0.4] run summon minecraft:area_effect_cloud ~ ~ ~ {Particle:"minecraft:dust 1 1 1 1",Radius:0.2f,Duration:1}

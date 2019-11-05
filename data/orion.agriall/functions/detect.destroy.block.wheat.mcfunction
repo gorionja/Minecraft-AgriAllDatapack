@@ -1,0 +1,1 @@
+execute at @e[type=minecraft:item,nbt={Age:0s,Item:{id:"minecraft:wheat"}},distance=..6,limit=1] run function orion.agriall:destroy.block.wheat
